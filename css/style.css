@@ -209,7 +209,7 @@ section{
     display: flex;
     align-items: flex-end;
     background:url('../images/3.jpg') no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position: bottom;
     justify-content: center;
     
